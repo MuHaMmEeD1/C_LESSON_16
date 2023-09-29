@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ROjITxl7v1TnU1Uj/xWh8LfhnsO/NdfeCoV90XknulTdd5vOCDlANOye2cye1N5UgsvW7fJRZ+3Fw31N2mKnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nebiy_rk69\\source\\repos\\C# LESSON 16_\\C# LESSON 16_\\C# LESSON 16_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nebiy_rk69\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Nebiy_rk69\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

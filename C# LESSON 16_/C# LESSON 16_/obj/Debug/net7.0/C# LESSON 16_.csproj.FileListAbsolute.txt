@@ -1,0 +1,20 @@
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\C# LESSON 16_.exe
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\C# LESSON 16_.deps.json
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\C# LESSON 16_.runtimeconfig.json
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\C# LESSON 16_.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\C# LESSON 16_.pdb
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.csproj.AssemblyReference.cache
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.AssemblyInfoInputs.cache
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.AssemblyInfo.cs
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.csproj.CoreCompileInputs.cache
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.csproj.CopyComplete
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\refint\C# LESSON 16_.dll
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.pdb
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\C# LESSON 16_.genruntimeconfig.cache
+C:\Users\Nebiy_rk69\source\repos\C# LESSON 16_\C# LESSON 16_\obj\Debug\net7.0\ref\C# LESSON 16_.dll
